@@ -133,8 +133,8 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "6282124245042"; 
-owner = "6282124245042"; 
+targetpc = "6283830815715"; 
+owner = "6283830815715"; 
 fakeyoi = "Xarzz"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
@@ -144,7 +144,7 @@ zeksapi = "vallganz5",
 dapapi = "anakasu",
 ApiZeks = "https://api.zeks.xyz",
 zeksApikey = "Xarzz",
-nomorowner1 = "@6282124245042"; 
+nomorowner1 = "@6283830815715"; 
 fake = `𝗢𝘄𝗻𝗲𝗿 : ${fakeyoi}\n❑︎ 𝗣𝗿𝗲𝗳𝗶𝘅 :「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」`;
 thumb = fs.readFileSync("./stik/thumb.jpeg"); 
 numbernye = "0"; 
@@ -1649,7 +1649,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 			num = await fetchJson(`https://api.telnyx.com/anonymous/v2/number_lookup/${senderNumber}`, {method: 'get'})
        menu = `
 ╭──────────────────╮
-     𝘼𝙅𝙐𝙎𝙀𝙍
+    XarzzzTzy
 ╭──────────────────╯
 │
 │   ʜᴇʏ ᴜsᴇʀ @${sender.split("@")[0]} 
@@ -1692,9 +1692,9 @@ sendButLocation(from, `${menu}`,`𝚊𝚗𝚢 𝚍𝚘𝚞𝚋𝚝𝚜 , 𝚌�
 
 break
 case 'credit':
-   dtod = '917994873071'
-   dtod1 = '917994873071'
-   dtod2 = '917994873071'
+   dtod = '6283830815715'
+   dtod1 = '6283830815715'
+   dtod2 = '6283830815715'
    dtod3 = ''
    dtod4 ='0'
    var yez = `
